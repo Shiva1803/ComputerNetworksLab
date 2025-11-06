@@ -1,0 +1,9 @@
+Following are the commands for network troubleshooting
+1. PING
+2. IPCONFIG
+3.IPCONFIG/ALL
+4. NETSTAT
+5. ARP
+6. TRACE-ROUTE
+7. NSLOOKUP
+8. PATHPING
