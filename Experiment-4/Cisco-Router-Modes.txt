@@ -1,0 +1,3 @@
+Refer to https://www.geeksforgeeks.org/computer-networks/cisco-router-modes/ for the content of this lab.
+
+Also, test their commands in CLI mode of any router. 
