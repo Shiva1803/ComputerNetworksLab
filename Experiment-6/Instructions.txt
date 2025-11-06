@@ -1,0 +1,4 @@
+Refer to the Lab Manual for this.
+
+One important key point:
+After running ping command (ping 192.168.30.2) for the first time from any Pc, we well get request time out for first 2 commands. Then only responses will start coming.
