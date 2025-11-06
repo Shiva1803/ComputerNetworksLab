@@ -1,0 +1,1 @@
+This Lab gives us intro to Star and Hub topology, their differences and its working in Packet Tracer Environment.
